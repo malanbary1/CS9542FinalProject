@@ -1,6 +1,6 @@
 # Detecting Pneumonia in Lung X-Ray Images using Convolutional Neural Networks
 
-### CS 9542 Graduate Student Group Project, Western University
+### Computer Science 9542 Advanced Artificial Intelligence II, Western University
 
 ### Contributors: *Ryan Divigalpitiya, Heather Hartley, Mohmmd Alanbary*
 
